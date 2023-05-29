@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/232dfa9b-a8c9-4aaa-9a90-e372eeaa4440/resourceGroups/voting-be_group/providers/Microsoft.Web/sites/voting-be",
+  "appService.deploySubpath": "."
+}
